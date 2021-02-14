@@ -1,0 +1,13 @@
+ body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    box-sizing: border-box;
+    display: grid;
+    justify-content: center;
+    align-content: center; 
+    place-items: center;    
+    font-family: arial;
+    background-color: purple;
+    color: rgba(255, 255, 255, 0.849);
+ }
